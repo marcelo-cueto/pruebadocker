@@ -31,8 +31,8 @@ from pylab import plt, mpl
 # In[3]:
 
 
-apiKey = "A9biVu4c9VJwpMSNmDWzEk9qnN53YzsD0lPaHHvUSyGAZZpsuLbEBvXc2fn4Q8lI"
-secret = '3wmdWG22JSBy4Nl5tDyATOZGPRv8YnPj9JqW2B05yO5eUophdxqMZNEgvqr7exxf'
+apiKey = ""
+secret = ''
 client = Client(apiKey, secret,tld='com')
 
 
